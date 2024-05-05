@@ -3,6 +3,7 @@ public class Assignment {
         System.out.println(print());
     }
     public static String print(){
-        System.out.println("Hello World");
+        //System.out.println("Hello World");
+        return "Hello World";
     }
 }
